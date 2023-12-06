@@ -395,7 +395,7 @@ Both middleware options offer solutions for handling asynchronous operations in 
 
 **Code**: 
 
-+ Make a ‘components’ folder inside the ‘src’ and create a file named header.js inside this components folder as shown:
++ Make a ‘components’ folder inside the ‘src’ and create a file named viodeCard.js inside this components folder as shown:
 
 ![AltImage](https://i.postimg.cc/vB4ZsxzY/install.jpg)
 
