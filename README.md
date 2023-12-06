@@ -62,6 +62,11 @@ Install React-Redux via npm or yarn:
 npm install react-redux
 ```
 
+```bash
+npm install @reduxjs/toolkit
+```
+
+
 + **Configuration**
 
 To integrate React-Redux into a React application, follow these steps:  
