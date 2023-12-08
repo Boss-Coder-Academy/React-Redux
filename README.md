@@ -391,6 +391,11 @@ Both middleware options offer solutions for handling asynchronous operations in 
 
 ### 7. Assignment
 
+For the following assignments use the given Figma link:
+
+[Figma Link for assignments](https://shorturl.at/clP68)
+
+
 **Task 1**: Create a modal as shown on clicking the more info button, which should pop up, on clicking more info, and close on clicking the same button, as shown.
 
 **Desired Output**:
